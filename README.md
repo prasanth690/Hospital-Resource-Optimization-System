@@ -30,9 +30,7 @@ Tables:
 - Patients
 - Appointments
 - Departments
-
-## 📷 Dashboard Preview
-(Add screenshot image here)
+)
 
 ## 🚀 Conclusion
 This system helps hospitals efficiently manage resources and improve operational performance.
